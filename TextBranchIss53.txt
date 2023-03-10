@@ -1,1 +1,1 @@
-This is a branch text file.
+This is a new branch text file.
